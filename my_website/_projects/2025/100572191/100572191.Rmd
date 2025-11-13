@@ -1,0 +1,15 @@
+
+
+---
+title: "My Tentative Data Visualization Project"
+description: "A short description of my project from informationisbeautiful.net"
+author: "Gaia Leuzzi"
+date: "`r Sys.Date()`"
+slug: 100572191
+categories: "2025"       
+output:
+  distill::distill_article:
+    toc: true
+---
+
+
