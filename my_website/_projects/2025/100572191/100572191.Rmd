@@ -3,7 +3,7 @@
 ---
 title: "My Tentative Data Visualization Project"
 description: "A short description of my project from informationisbeautiful.net"
-author: "Gaia Leuzzi"
+author: "Gaia Leuzzii"
 date: "`r Sys.Date()`"
 slug: 100572191
 categories: "2025"       
